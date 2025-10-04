@@ -4,9 +4,19 @@ Allows mouse input via the [Ks0008 Joystick module from Keyes](https://wiki.keye
 
 This code is for a school project so it may not be polished or may not work every time.
 
+## Schematic
+
+![Schematic](src/schematics.png)
+
+- ``+5V`` on ``5V``
+- ``-`` on ``GND``
+- ``X`` on ``A0``
+- ``Y`` on ``A1``
+- ``SW`` or ``B`` on digital 2
+
 ## Setup
 
-Tested under Windows and Linux.
+Tested under Windows and Linux.hot
 
 - Clone this repo or download source
 
