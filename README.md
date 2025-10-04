@@ -16,7 +16,7 @@ This code is for a school project so it may not be polished or may not work ever
 
 ## Setup
 
-Tested under Windows and Linux.hot
+Tested under Windows and Linux.
 
 - Clone this repo or download source
 
