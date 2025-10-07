@@ -6,9 +6,9 @@ mouse = pynput.mouse.Controller()
 
 # SETTINGS HERE
 PORT = '/dev/ttyUSB0' # COM3 if on Windows, /dev/ttyUSB0 or /dev/ttyACM0 if on Linux
-BAUD = 230400
+BAUD = 9600
 TIMEOUT = 0.01
-SENSI = 480.0
+SENSI = 80.0
 DEFAULT = (506, 497) # change this if your joystick center is different
 
 # CHANGE IF YOU NEED RIGHT BTN INSTEAD OF LEFT

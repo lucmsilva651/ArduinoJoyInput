@@ -9,7 +9,7 @@ int readY = 0;
 int readZ = 0;
 
 void setup() {
-    Serial.begin(230400); // lower this if it doesn't work
+    Serial.begin(9600); // lower this if it doesn't work
     pinMode(joyZ, INPUT_PULLUP); // register Z btn
 }
 
